@@ -5,7 +5,7 @@
 - 2009 & 2010 Id Crack
 
 ## How To Use This Tool
-First Run The Command After login You Will See Many Option Then Type 1 And Enter The You See Example: 5000/10000/9999 I Recommend You To Use 10000 Limit. Then Enter And You can see 2 Option 1. 2010 2. 2009-2010 type 1 or 2 then enter and Boom 💥 You Old Uid Cloning Start
+First Run The Command After login You Will See Many Option Then Type (1) And Enter And You Will See Example: 5000/10000/9999 I Recommend You To Use 10000 Limit After Enter And You can see 2 Option 1. 2010 2. 2009-2010 type 1 or 2 then enter and Boom 💥 Your Old Uid Cloning Start
 - Thank You 
 
 ## Run Command 

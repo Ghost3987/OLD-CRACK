@@ -4,6 +4,9 @@
 - All Country Working
 - 2009 & 2010 Id Crack
 
+## How To Use This Tool
+First Run The Command After login You Will See Many Option Then Type 1 And Enter The You See Example: 5000/10000/9999 I Recommend You To Use 10000 Limit then Enter And You can see 2 Option 1. 2010 2. 2009-2010 use any option Then enter
+
 ## Run Command 
 ```
 rm -rf OLD-CRACK

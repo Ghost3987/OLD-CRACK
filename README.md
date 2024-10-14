@@ -10,8 +10,26 @@ First Run The Command After login You Will See Many Option Then Type (1) And Ent
 
 #facebookuidcrack #fboldidcrack #oldaccountcloning #ghost #TermuxFreeCommandWorld2024 #cloning #fb
 
+## Set-Up Command
+'''Ruby
+pkg update 
+
+pkg upgrade 
+
+pkg install python 
+
+pip install requests 
+
+pip install mechanize 
+
+pip install bs4 
+
+pkg install git 
+
+pip install rich 
+
 ## Run Command 
-```
+```Ruby
 rm -rf OLD-CRACK
 git clone https://github.com/Ghost3987/OLD-CRACK
 cd OLD-CRACK

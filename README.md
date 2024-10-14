@@ -11,7 +11,7 @@ First Run The Command After login You Will See Many Option Then Type (1) And Ent
 #facebookuidcrack #fboldidcrack #oldaccountcloning #ghost #TermuxFreeCommandWorld2024 #cloning #fb
 
 ## Set-Up Command
-'''Ruby
+```Ruby
 pkg update 
 
 pkg upgrade 
@@ -27,7 +27,7 @@ pip install bs4
 pkg install git 
 
 pip install rich
-'''
+```
 
 ## Run Command 
 ```Ruby
